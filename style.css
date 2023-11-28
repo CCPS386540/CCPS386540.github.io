@@ -2,3 +2,24 @@ p{
   font-family: arial;
   color: pink;
 }
+img {
+   height: 150px;
+}
+description {
+  font-size: 20px;
+}
+#element-id{
+  font-weight: bold;
+}
+parent-elemt child-element{
+  list-style: square;
+}
+element.class {
+  color: gray;
+}
+.class-name{
+  color:SeaGreen;
+}
+font-family {
+  Helvetica;
+}
